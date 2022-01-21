@@ -8,3 +8,5 @@ dir - Entrar em uma pasta.
 ls - exibir o conteudo da pasta atual.
 cd .. - volta uma pasta anterior.
 git add . - Atualiza a lista de arquivos no Git para fazer o commit no GitHub.
+git commit -m "texto para saber o que foi alterado" - Cria o commit para envio ao GitHub.
+git push origin main OU master - Sincroniza o repositório com o GitHub.
