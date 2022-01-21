@@ -14,3 +14,15 @@ O que são linguagens de programação?
 Aprenda a utilizar desvios condicionais e boas práticas em programação
 Trabalhando com laços de repetição em Portugol
 Aplicação prática com matrizes e vetores
+Introdução e objetivos
+O que é estrutura de dados
+Vetores e matrizes
+O que são registros
+Introdução e objetivos
+O que são listas
+O que são pilhas
+O que são filas
+Introdução e objetivos
+O que são árvores
+O que são tabelas hash
+O que são grafos
