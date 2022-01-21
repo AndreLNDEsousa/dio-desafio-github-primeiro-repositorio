@@ -1,0 +1,16 @@
+As aplicações necessárias para a pratica durante esse curso está na pasta "Downloads".
+
+-Para praticar o Fluxograma será usado o aplicativo Flowgorithm ( O famoso aplicativo de nome estranho ).
+-Para o aprendizado de matrizes/listas/vetores..... usaremos o Portugol.
+
+conteúdo apresentado durante o curso:
+Entendendo o que é lógica
+O que são algoritmos e pseudocódigo
+Aprendendo fluxograma, variáveis e constantes
+Tomadas de decisões e expressões
+Como utilizar a concatenação
+Aprenda como utilizar uma estrutura de repetição
+O que são linguagens de programação?
+Aprenda a utilizar desvios condicionais e boas práticas em programação
+Trabalhando com laços de repetição em Portugol
+Aplicação prática com matrizes e vetores

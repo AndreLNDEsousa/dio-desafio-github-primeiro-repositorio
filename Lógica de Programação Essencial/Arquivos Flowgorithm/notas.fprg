@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="ANDRE"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-01-13 05:15:43 "/>
+        <attribute name="created" value="QU5EUkU7QU5EUkU7MjAyMi0wMS0xMzsiMDQ6MDg6NTggIjsxOTE1"/>
+        <attribute name="edited" value="QU5EUkU7QU5EUkU7MjAyMi0wMS0xMzsiMDU6MTU6NDMgIjszOzIwMTg="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="Nota1, Nota2, Nota3, Nota4, media, soma" type="Real" array="False" size=""/>
+            <input variable="Nota1"/>
+            <input variable="Nota2"/>
+            <input variable="Nota3"/>
+            <input variable="Nota4"/>
+            <assign variable="media" expression="(Nota1+Nota2+Nota3+Nota4)/4"/>
+            <assign variable="soma" expression="(Nota1+Nota2+Nota3+Nota4)"/>
+            <output expression="&quot;SUA MEDIA &#201;:&quot;" newline="True"/>
+            <output expression="media" newline="True"/>
+            <if expression="MEDIA &gt;=7">
+                <then>
+                    <output expression="&quot;AHAZOU VOC&#202; FOI APROVADO&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;REPROVADO&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
