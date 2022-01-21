@@ -1,5 +1,5 @@
-# Desafio de projeto github da DIO
-Repositório criado para o desafio Git/Github DIO #startgft3
+# Desafio de projeto GitHub da DIO
+Repositório criado para o desafio Git/GitHub DIO #startgft3
  - criar um repositório publico
  - Fazer o clone na maquina local
  # Links uteis
